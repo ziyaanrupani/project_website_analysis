@@ -61,6 +61,15 @@ optimizing critical points where users are abandoning so that you can convert mo
 
 ### Conversion Rate
 
+* As the homepage phased out and lander-1 is now the default for all paid marketing campaigns, it is essential to understand any further bottlenecks along the process of purchasing a product.
+
+![image](https://github.com/user-attachments/assets/c50d98ec-4f18-4179-8958-7e0ecf4123ed)
+
+* Customers naturally funnel out as not all viewers will complete each step to buy a product. The two bottlenecks identified are the items and billing pages. For both pages, only 43% of viewers follow the natural path to make a purchase.
+
+  * A huge segment is lost at the last step, it is where a customer inputs their billing information.
+ 
+*   
 
 ## Recommendations
 
