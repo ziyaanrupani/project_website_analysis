@@ -29,3 +29,29 @@ optimizing critical points where users are abandoning so that you can convert mo
 ## Executive Summary
 
 ## Insights Deep Dive
+
+#### Bounce Rate
+
+* Preliminary analysis of identifying top website pages highlighted that the bulk of the traffic was directed from the home page. It was the landing page for almost all the viewers.
+  * Customer behavior showed that the bounce rate for paid marketing campaigns from the home page was quite high at 60%.
+  *  Only 40% of people who came through paid sources browsed the website and made it past the home page.
+*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
