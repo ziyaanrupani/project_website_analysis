@@ -59,6 +59,8 @@ optimizing critical points where users are abandoning so that you can convert mo
 
 * Additionally over the same period, there is an overall increase in traffic to the website.
 
+### Conversion Rate
+
 
 ## Recommendations
 
