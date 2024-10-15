@@ -1,6 +1,9 @@
 # project_website_analysis
 
 ## Project Background
+
+Maven Fuzzy Factory is a recently launched e-commerce startup that has been operational for 8 months and has introduced its first product. The company utilizes a robust database to track orders and website sessions, aiming to monitor customer behavior and assess the effectiveness of online marketing campaigns. This data-driven approach supports the business in analyzing marketing channels, traffic sources, and conversion performance.
+
 Maven Fuzzy Factory is a newly launched e-commerce startup that has been live for 8 months and has launched its first product.
 
 The company has a rich database that tracks orders through it's 
@@ -26,7 +29,17 @@ optimizing critical points where users are abandoning so that you can convert mo
 
 ## Data Structure Overview
 
+![image](https://github.com/user-attachments/assets/8928cef5-7579-4f22-8583-261bc8b530c6)
+
 ## Executive Summary
+
+Maven Fuzzy Factory focuses on data analysis to optimize its marketing strategies and website performance. 
+Key areas of focus include:
+* Traffic Source Analysis: Identifying which channels drive the highest quality traffic and where opportunities exist to reduce unnecessary spend or scale high-converting sources.
+
+* Landing Page Performance: Analyzing and testing landing pages to identify areas for improvement. Recommendations are made based on pages with high traffic but low conversion rates or high bounce rates.
+
+* Conversion Funnel Optimization: Understanding and optimizing user journeys through the sales funnel by identifying key abandonment points and working to improve the flow of users from one step to the next, aiming to increase conversions and sales.
 
 ## Insights Deep Dive
 
@@ -67,13 +80,23 @@ optimizing critical points where users are abandoning so that you can convert mo
 
 * Customers naturally funnel out as not all viewers will complete each step to buy a product. The two bottlenecks identified are the items and billing pages. For both pages, only 43% of viewers follow the natural path to make a purchase.
 
-  * A huge segment is lost at the last step, it is where a customer inputs their billing information.
- 
-*   
+  * A huge segment is lost at the last step, where a customer inputs their billing information.
+
+![image](https://github.com/user-attachments/assets/8402488b-2559-4d43-9dc9-6e8ffee12973)
+
+* The testing phase of 2 months between a new and old billing page shows a 17% increase in the conversion rate. More viewers are getting past the final stage and placing orders rather than abandoning the step.
+         
+![image](https://github.com/user-attachments/assets/d83c13da-2625-4e7e-8465-e663c97ddb54)
+
+* Trend analysis over the next 3 months shows that the new billing page consistently brought in more revenue. On average the difference between the two billing pages was ~$800.
+    *   A paired t-test shows that the difference between the two is statistically significant as the p-value is 0.00009, much smaller than 0.05
+
 
 ## Recommendations
 
 * It's uncertain if an increase in web traffic is due to the introduction of the new lander-1 page. It's important to evaluate if bids for paid traffic were consistent. It is also worth comparing the ratio of return customers before vs. after lander-1.
+
+* Evaluate the changes between the two billing pages and apply necessary steps to the items page, further up the natural pathway of customers.
 
 
 
