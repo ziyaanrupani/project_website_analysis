@@ -4,29 +4,6 @@
 
 Maven Fuzzy Factory is a recently launched e-commerce startup that has been operational for 8 months and has introduced its first product. The company utilizes a robust database to track orders and website sessions, aiming to monitor customer behavior and assess the effectiveness of online marketing campaigns. This data-driven approach supports the business in analyzing marketing channels, traffic sources, and conversion performance.
 
-Maven Fuzzy Factory is a newly launched e-commerce startup that has been live for 8 months and has launched its first product.
-
-The company has a rich database that tracks orders through it's 
-
-tracks orders, website sessions (utm - to track effectiveness of online market campaigns, tracks traffic sources, helps to view customer behaviour patterns)
-
-to analyze and optimize marketing channels, measure and test website conversion performance
-
-traffic source analysis:
-understand where customers are coming from and which channels drive highest quality traffic
-identify opportunities to eliminate wasted spend or scale high-converting traffic
-
-landing page performance and testing:
-understanding the performance of key landing pages and testing to improve results
-identify top opportunities for landing pages. high volume pages with higher than expected bounce rate or low conversion rate
-make recommendations on which version of landing pages you should use going forward
-
-analyzing and testing conversion funnels:
-underatanding and optimizing each step of user experience on their journey towards purchasing products
-identifying most common paths customers take before purchasing products
-identify how many users continue to each next step and how many abandon
-optimizing critical points where users are abandoning so that you can convert more users and sell more products
-
 ## Data Structure Overview
 
 ![image](https://github.com/user-attachments/assets/8928cef5-7579-4f22-8583-261bc8b530c6)
@@ -94,9 +71,16 @@ Key areas of focus include:
 
 ## Recommendations
 
-* It's uncertain if an increase in web traffic is due to the introduction of the new lander-1 page. It's important to evaluate if bids for paid traffic were consistent. It is also worth comparing the ratio of return customers before vs. after lander-1.
+* It's uncertain if an increase in web traffic is due to the introduction of the new lander-1 page.
+    * It's important to evaluate if bids for paid traffic were consistent.
+    * It is also worth comparing the ratio of return customers before vs. after lander-1.
 
-* Evaluate the changes between the two billing pages and apply necessary steps to the items page, further up the natural pathway of customers.
+* Determine if certain paid traffic is more effective at increasing viewers as well as decreasing the conversion rate in them placing an order. 
+
+*  Evaluate the changes between the two billing pages and apply necessary steps to the items page, further up the natural pathway of customers.
+    *  Conduct testing on the items page by changing the layout, descriptions, and icon sizes to reduce drop-offs.
+
+ * Analyze the quality of traffic periodically, especially organic vs paid traffic to evaluate customer trends. 
 
 
 
