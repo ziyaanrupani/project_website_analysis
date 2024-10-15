@@ -27,23 +27,18 @@ Key areas of focus include:
   * Customer behavior showed that the bounce rate for paid marketing campaigns from the home page was quite high at 60%.
     
   *  Only 40% of people who came through paid sources browsed the website and made it past the home page.
-    
+
+![image](https://github.com/user-attachments/assets/1b432597-08cf-4776-b976-66c95ee867f8)
+
 * A new custom landing page was introduced to test against the default homepage. Both pages were evaluated a month after the latest landing page went live.
 
-![image](https://github.com/user-attachments/assets/bef14435-c3c1-4bbb-bd09-39e696180f49)
-
 * Both the pages were viewed a similar amount of times and the number of bounce sessions for the new page are slightly lower.
-
-![image](https://github.com/user-attachments/assets/9aaea572-f3ae-40e3-b2aa-496fee1f214e)
 
 * There was a drop in the bounce ratio between the homepage and lander-1 from ~60% to 53%
   
   * Significance testing using the z-test gives us a p-value of 0.00051 which is much lower than 0.05 giving us confidence that the drop is statistically significant.
 
-![image](https://github.com/user-attachments/assets/8bd1901e-a6bb-4d19-907e-c5543ee6b17c)
-
-
-![image](https://github.com/user-attachments/assets/becda468-955c-4292-8928-7559ffbd473f)
+![image](https://github.com/user-attachments/assets/0e551f96-c139-4200-8b40-89198fe32a95)
 
 * Trend analysis of landing pages shows that as the homepage is being phased out with the new lander-1 page, the overall bounce rate drops gradually over 5 months.
 
@@ -59,12 +54,10 @@ Key areas of focus include:
 
   * A huge segment is lost at the last step, where a customer inputs their billing information.
 
-![image](https://github.com/user-attachments/assets/8402488b-2559-4d43-9dc9-6e8ffee12973)
+![image](https://github.com/user-attachments/assets/707c228a-0e03-415b-b651-ee58353ab45a)
 
 * The testing phase of 2 months between a new and old billing page shows a 17% increase in the conversion rate. More viewers are getting past the final stage and placing orders rather than abandoning the step.
          
-![image](https://github.com/user-attachments/assets/d83c13da-2625-4e7e-8465-e663c97ddb54)
-
 * Trend analysis over the next 3 months shows that the new billing page consistently brought in more revenue. On average the difference between the two billing pages was ~$800.
     *   A paired t-test shows that the difference between the two is statistically significant as the p-value is 0.00009, much smaller than 0.05
 
