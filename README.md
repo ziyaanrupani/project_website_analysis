@@ -1,10 +1,11 @@
-# project_website_analysis
+# Website Performance Analysis
 
 ## Project Background
 
 Maven Fuzzy Factory is a recently launched e-commerce startup that has been operational for 8 months and has introduced its first product. The company utilizes a robust database to track orders and website sessions, aiming to monitor customer behavior and assess the effectiveness of online marketing campaigns. This data-driven approach supports the business in analyzing marketing channels, traffic sources, and conversion performance.
 
 ## Data Structure Overview
+Maven's database consists of six tables: products, order refunds, order items, website sessions, website pageviews, and orders; focusing on the last three. Between these tables, there are roughly 1.5 million records where most track website metrics.
 
 ![image](https://github.com/user-attachments/assets/8928cef5-7579-4f22-8583-261bc8b530c6)
 
@@ -12,7 +13,7 @@ Maven Fuzzy Factory is a recently launched e-commerce startup that has been oper
 
 Maven Fuzzy Factory focuses on data analysis to optimize its marketing strategies and website performance. 
 Key areas of focus include:
-* Traffic Source Analysis: Identifying which channels drive the highest quality traffic and where opportunities exist to reduce unnecessary spend or scale high-converting sources.
+* Traffic Source Analysis: Identifying which channels drive the highest quality traffic and where opportunities exist to reduce unnecessary spending or scale high-converting sources.
 
 * Landing Page Performance: Analyzing and testing landing pages to identify areas for improvement. Recommendations are made based on pages with high traffic but low conversion rates or high bounce rates.
 
