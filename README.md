@@ -9,6 +9,8 @@ Maven's database consists of six tables: products, order refunds, order items, w
 
 ![image](https://github.com/user-attachments/assets/8928cef5-7579-4f22-8583-261bc8b530c6)
 
+Pre lim analysis [here.](https://github.com/ziyaanrupani/project_website_analysis/blob/main/sql_scripts/preliminary_analysis.sql)
+
 ## Executive Summary
 
 Maven Fuzzy Factory focuses on data analysis to optimize its marketing strategies and website performance. 
