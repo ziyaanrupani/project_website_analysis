@@ -9,7 +9,11 @@ Maven's database consists of six tables: products, order refunds, order items, w
 
 ![image](https://github.com/user-attachments/assets/8928cef5-7579-4f22-8583-261bc8b530c6)
 
-Pre lim analysis [here.](https://github.com/ziyaanrupani/project_website_analysis/blob/main/sql_scripts/preliminary_analysis.sql)
+SQL queries utilized for preliminary analysis can be found [here.](https://github.com/ziyaanrupani/project_website_analysis/blob/main/sql_scripts/preliminary_analysis.sql)
+
+SQL queries utilized to clean, organize, and prepare data to check the [bounce rate](https://github.com/ziyaanrupani/project_website_analysis/blob/main/sql_scripts/analyzing_bounce_rates.sql) and [trends.](https://github.com/ziyaanrupani/project_website_analysis/blob/main/sql_scripts/analyzing_bounce_rates_trends.sql)
+
+SQL queries to prepare data to [build](https://github.com/ziyaanrupani/project_website_analysis/blob/main/sql_scripts/building_conversion_funnels.sql) and [analyze](https://github.com/ziyaanrupani/project_website_analysis/blob/main/sql_scripts/analyzing_conversion_funnel.sql) the conversion funnel.
 
 ## Executive Summary
 
