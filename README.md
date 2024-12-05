@@ -28,12 +28,12 @@ Key areas of focus include:
 ### Bounce Rate
 * Preliminary analysis of identifying top website pages highlighted that the bulk of the traffic was directed from the home page. It was the landing page for almost all the viewers.
   * Customer behavior showed that the bounce rate for **paid marketing campaigns** from the home page was quite **high** at 60%.
-  *  Only 40% of people who came through paid sources browsed the website and made it past the home page.
+  * Only 40% of people who came through paid sources browsed the website and made it past the home page.
 
 ![image](https://github.com/user-attachments/assets/1b432597-08cf-4776-b976-66c95ee867f8)
 
-* A new custom landing page was introduced to test against the default homepage. Both pages were evaluated a month after the latest landing page went live.
-* Both the pages were viewed a similar amount of times and the number of bounce sessions for the new page are slightly lower.
+* A new custom landing page was introduced to test against the default homepage. Both pages were evaluated a month after the new landing page went live.
+* Both the pages were viewed a similar amount of times but the number of bounced sessions for the new page was lower.
 * There was a **drop** in the **bounce ratio** between the homepage and lander-1 from **~60% to 53%**
   * Significance testing using the z-test gives us a p-value of **0.00051** which is much lower than 0.05 giving us confidence that the drop is **statistically significant**.
 
@@ -44,16 +44,16 @@ Key areas of focus include:
 
 ### Conversion Rate
 
-* As the homepage phased out and lander-1 is now the default for all paid marketing campaigns, it is essential to understand any **further bottlenecks** along the process of purchasing a product.
+* As the homepage phased out and lander-1 becomes the default for all paid marketing campaigns, it is essential to understand any **further bottlenecks** in the process of purchasing a product.
 
 ![image](https://github.com/user-attachments/assets/c50d98ec-4f18-4179-8958-7e0ecf4123ed)
 
 * Customers naturally funnel out as not all viewers will complete each step to buy a product. The two bottlenecks identified are the **items** and **billing pages**. For both pages, only 43% of viewers follow the natural path to make a purchase.
-  * A huge segment is **lost at the last step**, where a customer inputs their billing information.
+  * A huge segment is **lost at the last step**, where a customer fills out their billing information.
 
 ![image](https://github.com/user-attachments/assets/707c228a-0e03-415b-b651-ee58353ab45a)
 
-* The testing phase of 2 months between a new and old billing page shows a **17% increase** in the conversion rate. More viewers are getting past the final stage and placing orders rather than abandoning the step.
+* The testing phase of 2 months between a new and the old billing page shows a **17% increase** in the conversion rate. More viewers are getting past the final stage and placing orders rather than abandoning the step.
 * Trend analysis over the next 3 months shows that the **new billing page** consistently brought in **more revenue**. On average the difference between the two billing pages was **~$800**.
     *   A paired t-test shows that the difference between the two is **statistically significant** as the p-value is 0.00009, much smaller than 0.05
 
